@@ -34,7 +34,6 @@
 - 1.Feng J, **Gong C**, Li X, et al. Automatic Approach of Sentiment Lexicon Generation for Mobile Shopping Reviews,WCMC,2018.(SCI,CCF C)
 
 ### 会议论文
- - 
 ### 专利著作权
  - 一种面向行业元数据注册和分布式检索系统及方法。中国发明专利申请
  - 一种跨内外网的分布式索引资源整合与共享方法。中国发明专利申请
