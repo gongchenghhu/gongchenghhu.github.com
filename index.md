@@ -34,7 +34,7 @@
 - 1.Feng J, **Gong C**, Li X, et al. Automatic Approach of Sentiment Lexicon Generation for Mobile Shopping Reviews,WCMC,2018.(SCI,CCF C)
 
 ### 会议论文
--1."The TJU-Didi-Huiyan system for Blizzard Challenge 2019" Ju Zhang, Shaotong Guo, **Cheng Gong**, Shuaiting Chen, Yuguang Wang, Longbiao Wang, Wei Zou, Xiangang Li (Department of Intelligence and Computing, Tianjin University, Tianjin 300350, China; Huiyan Technology (Tianjin) Co., Ltd; Didi Chuxing),the 10th ISCA Speech Synthesis Workshop.
+-1."The TJU-Didi-Huiyan system for Blizzard Challenge 2019" Ju Zhang, Shaotong Guo, **Cheng Gong**, Shuaiting Chen, Yuguang Wang, Longbiao Wang, Wei Zou, Xiangang Li (Department of Intelligence and Computing, Tianjin University, Tianjin 300350, China; Huiyan Technology (Tianjin) Co., Ltd; Didi Chuxing),the 10th ISCA Speech Synthesis Workshop.  
 -2. "Product Feature Extraction via Topic Model and Synonym Recognition Approach",Jun Feng, Wen Yang, **Cheng Gong,** Xiaodong Li and Rongrong Bo,CCF BigData19.
 ### 专利著作权
  - 一种面向行业元数据注册和分布式检索系统及方法。中国发明专利申请
