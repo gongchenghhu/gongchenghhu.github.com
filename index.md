@@ -36,8 +36,11 @@
 
 ### 会议论文
 -1."IMPROVING NATURALNESS AND CONTROLLABILITY OF SEQUENCE-TO-SEQUENCE SPEECH SYNTHESIS BY LEARNING LOCAL PROSODY REPRESENTATIONS",**Cheng Gong**,Longbiao Wang, Zhenhua Ling, Shaotong Guo, Ju Zhang, Jianwu Dang, ICASSP 2021 (CCF B accepted).
+
 -2."TacoLPCNet: A High Quality and Lightweight TTS by Conditioning LPCNet on Acoustic Features Predictions",**Cheng Gong**,Ju Zhang, Longbiao Wang, Shaotong Guo, Yuguang Wang,Interspeech 2020 Satellite Workshop Spoken Language Interaction for Mobile Transportation System(SLIMTS).
+
 -3."The TJU-Didi-Huiyan system for Blizzard Challenge 2019" Ju Zhang, Shaotong Guo, **Cheng Gong**, Shuaiting Chen, Yuguang Wang, Longbiao Wang, Wei Zou, Xiangang Li (Department of Intelligence and Computing, Tianjin University, Tianjin 300350, China; Huiyan Technology (Tianjin) Co., Ltd; Didi Chuxing),the 10th ISCA Speech Synthesis Workshop.  
+
 -4. "Product Feature Extraction via Topic Model and Synonym Recognition Approach",Jun Feng, Wen Yang, **Cheng Gong,** Xiaodong Li and Rongrong Bo,CCF BigData19.
 ### 专利著作权
  - 一种面向行业元数据注册和分布式检索系统及方法。中国发明专利申请
