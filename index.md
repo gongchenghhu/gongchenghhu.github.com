@@ -5,7 +5,7 @@
       <h1>贡诚</h1>
       <p><b>博士研究生</b></p>
       <p><b>天津大学智能与计算学部</b></p>
-      <p><b>邮箱：gongchenghhu@163.com</b></p>
+      <p><b>邮箱：gongchengcheng@tju.edu.cn</b></p>
       <p><b>地址：天津市津南区海河教育园区天津大学，55B312，邮编300350</b></p>
       <a href="/index-en.html">English Version</a>
     </td>
