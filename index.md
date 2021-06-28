@@ -35,13 +35,20 @@
 - 1.Feng J, **Gong C**, Li X, et al. Automatic Approach of Sentiment Lexicon Generation for Mobile Shopping Reviews,WCMC,2018.(SCI,CCF C)
 
 ### 会议论文
--1."IMPROVING NATURALNESS AND CONTROLLABILITY OF SEQUENCE-TO-SEQUENCE SPEECH SYNTHESIS BY LEARNING LOCAL PROSODY REPRESENTATIONS",**Cheng Gong**,Longbiao Wang, Zhenhua Ling, Shaotong Guo, Ju Zhang, Jianwu Dang, ICASSP 2021 (CCF B accepted).
+-1 "TacoLPCNet: Fast and Stable TTS by Conditioning LPCNet on Mel Spectrogram Predictions", **Cheng Gong**, Longbiao Wang, Ju Zhang, Shaotong Guo, Yuguang Wang and Jianwu Dang,
+INTERSPEECH 2021.
 
--2."TacoLPCNet: A High Quality and Lightweight TTS by Conditioning LPCNet on Acoustic Features Predictions",**Cheng Gong**,Ju Zhang, Longbiao Wang, Shaotong Guo, Yuguang Wang,Interspeech 2020 Satellite Workshop Spoken Language Interaction for Mobile Transportation System(SLIMTS).
+-2 "Information Sieve: Content Leakage Reduction in End-to-End Prosody Transfer for Expressive Speech Synthesis", Xudong Dai, **Cheng Gong**(first co-author）, Longbiao Wang and Kaili Zhang, INTERSPEECH 2021.
 
--3."The TJU-Didi-Huiyan system for Blizzard Challenge 2019" Ju Zhang, Shaotong Guo, **Cheng Gong**, Shuaiting Chen, Yuguang Wang, Longbiao Wang, Wei Zou, Xiangang Li (Department of Intelligence and Computing, Tianjin University, Tianjin 300350, China; Huiyan Technology (Tianjin) Co., Ltd; Didi Chuxing),the 10th ISCA Speech Synthesis Workshop.  
+-3."IMPROVING NATURALNESS AND CONTROLLABILITY OF SEQUENCE-TO-SEQUENCE SPEECH SYNTHESIS BY LEARNING LOCAL PROSODY REPRESENTATIONS",**Cheng Gong**, Longbiao Wang, Zhenhua Ling, Shaotong Guo, Ju Zhang, Jianwu Dang, ICASSP 2021.
 
--4. "Product Feature Extraction via Topic Model and Synonym Recognition Approach",Jun Feng, Wen Yang, **Cheng Gong,** Xiaodong Li and Rongrong Bo,CCF BigData19.
+-4. "LEARNING LANGUAGE AND SPEAKER INFORMATION FOR CODE-SWITCH SPEECH SYNTHESIS WITH LIMITED DATA", Mengxin Chai, Shaotong Guo, **Cheng Gong***, Longbiao Wang, Jianwu Dang, Ju Zhang, ASRU 2021 (SUBMITTED)
+
+-5."TacoLPCNet: A High Quality and Lightweight TTS by Conditioning LPCNet on Acoustic Features Predictions",**Cheng Gong**,Ju Zhang, Longbiao Wang, Shaotong Guo, Yuguang Wang,Interspeech 2020 Satellite Workshop Spoken Language Interaction for Mobile Transportation System(SLIMTS).
+
+-6."The TJU-Didi-Huiyan system for Blizzard Challenge 2019" Ju Zhang, Shaotong Guo, **Cheng Gong**, Shuaiting Chen, Yuguang Wang, Longbiao Wang, Wei Zou, Xiangang Li (Department of Intelligence and Computing, Tianjin University, Tianjin 300350, China; Huiyan Technology (Tianjin) Co., Ltd; Didi Chuxing),the 10th ISCA Speech Synthesis Workshop.  
+
+-7. "Product Feature Extraction via Topic Model and Synonym Recognition Approach",Jun Feng, Wen Yang, **Cheng Gong,** Xiaodong Li and Rongrong Bo,CCF BigData19.
 ### 专利著作权
  - 一种面向行业元数据注册和分布式检索系统及方法。中国发明专利申请
  - 一种跨内外网的分布式索引资源整合与共享方法。中国发明专利申请
